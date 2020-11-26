@@ -1,0 +1,13 @@
+1. El mejor algoritmo fue el SSTF 
+ya que la cabeza lectora se mueve menos.
+
+2. Una SSD es como una RAM en comportamiento ya que la informacion se almacena en forma electrica, 
+pero la diferencia es que esta no es volatil.
+
+3. Como la SSD no tiene partes que se mueven
+los algoritmos de SCAN no son importantes.
+comparado con FCFS el comportamiento es el mismo.
+
+4. Si existen algoritmos para las SSD, el que
+mas emplean es el FCFS, como las SSD no sufren de latencia de busqueda y tiempo rotacional
+este es algoritmo mas usado.

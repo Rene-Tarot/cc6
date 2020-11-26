@@ -1,0 +1,22 @@
+semaphore mutex = 1;
+semaphore SemaLatas = 0
+semaphore SemaEspacios = n
+
+
+producir(){
+
+SemaEspacios.P()
+mutex.p()
+	instert(lata)
+mutex.v()
+SemaLatas.V()
+}
+
+Consumir(){
+
+SemaLatas.P()
+mutex.p()
+lata = get()
+mutex.v()
+SemaEspacios.V()
+}
